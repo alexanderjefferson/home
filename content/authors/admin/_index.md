@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: AJ
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Alexander Jefferson
 
 # Full name (for SEO)
 first_name: Alexander
-last_name: Chien
+last_name: Jefferson
 
 # Status emoji
 status:
@@ -20,92 +20,106 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Honors Student at Lone Star College-University Park
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Lone Star College
+    url: https://lonestar.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alexanjefferson@my.lonestar.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alexanderjefferson
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/alexander-jefferson-68271b235/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Water and Wastewater Treatment
+  - Computational Fluid Dynamics
+  - Etymology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+#  - area: PhD Artificial Intelligence
+ #   institution: Stanford University
+  #  date_start: 2016-01-01
+   # date_end: 2020-12-31
+   # summary: |
+   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+   # button:
+   #   text: 'Read Thesis'
+   #   url: 'https://example.com'
+ # - area: MEng Artificial Intelligence
+ #   institution: Massachusetts Institute of Technology
+ #   date_start: 2016-01-01
+ #   date_end: 2020-12-31
+ #   summary: |
+ #     GPA: 3.8/4.0
+#
+ #     Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Honors Associate of Science
+    institution: Lone Star College
+    date_start: 2023-08-01
+    date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.95/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Honors Environmental and Physical Geology
+      - Calculus I, II, and III, Chem I and II
+      - Honors Physics I and II, Honors Speech
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+#  - position: Director of Cloud Infrastructure
+ #   company_name: GenCoin
+ #   company_url: ''
+ #   company_logo: ''
+ #   date_start: 2021-01-01
+ #   date_end: ''
+ #   summary: |2-
+ #    Responsibilities include:
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Academic Peer Coach
+    company_name: Lone Star College
+    company_url: 'https://lonestar.edu'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-08-17
+    date_end: ...
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        -
+        -
+        -
+        -
+
+  - position: Research Intern
+    company_name: Texas A&M University
+    company_url: 'https://tamu.edu'
+    company_logo: ''
+    date_start: 2024-05-28
+    date_end: 2024-08-02
+    summary: |
+      Responsibilities include:
+        -Investigated the impact of nutrients (e.g., nitrogen, phosphorus), organic carbon, and flow rates on biofilm growth
+        -Utilized high-fidelity Computational Fluid Dynamics (CFD) simulations using a modified solver, bioGroutFoam in OpenFOAM
+        -Presented research findings at program meetings, an undergraduate symposium, and AGU's 2024 annual meeting
+        -Intended to offer strategies to optimize the role of biofilms in nutrient cycling and water quality
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
